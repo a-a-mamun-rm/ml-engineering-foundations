@@ -1,3 +1,3 @@
-# My notes: 07-llms-and-rag
+# Notes: 07-llms-and-rag
 
-Write 5-10 lines per notebook, in my own words, after finishing it.
+Use this file for your own summary: 5-10 lines per notebook, in your own words, after finishing it.

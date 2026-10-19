@@ -1,3 +1,3 @@
-# My notes: 08-serving-gpu-mlops
+# Notes: 08-serving-gpu-mlops
 
-Write 5-10 lines per notebook, in my own words, after finishing it.
+Use this file for your own summary: 5-10 lines per notebook, in your own words, after finishing it.

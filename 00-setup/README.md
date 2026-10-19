@@ -19,4 +19,4 @@ Free GPUs if you want them: [Kaggle notebooks](https://www.kaggle.com/code) or [
 
 ## Rules
 - Prefer understanding over coverage: one topic you can explain beats three you've skimmed.
-- Every claim you make in an interview should be backed by something you ran yourself.
+- Back every claim you make in an interview with something you ran yourself.
